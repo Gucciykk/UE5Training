@@ -1,0 +1,7 @@
+C:\Users\koki.yamaguchi\Documents\UE5Training\ImportModelPlugin\Intermediate\Build\Win64\UE4Editor\Development\ImportModelPlugin\Definitions.ImportModelPlugin.h
+C:\Users\koki.yamaguchi\Documents\UE5Training\ImportModelPlugin\Source\ImportModelPlugin\ImportModelPluginGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\koki.yamaguchi\Documents\UE5Training\ImportModelPlugin\Intermediate\Build\Win64\UE4Editor\Inc\ImportModelPlugin\ImportModelPluginGameModeBase.generated.h
