@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\ue5_quickstart.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\ue5_quickstarteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_quickstart\\definitions.ue5_quickstart.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\ue5_quickstart.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

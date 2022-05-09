@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_QuickStart",
+			"Path": "C:\\Users\\luigi.sim\\Documents\\Unreal Projects\\UE5_QuickStart\\Source\\UE5_QuickStart.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_QuickStartEditor",
+			"Path": "C:\\Users\\luigi.sim\\Documents\\Unreal Projects\\UE5_QuickStart\\Source\\UE5_QuickStartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

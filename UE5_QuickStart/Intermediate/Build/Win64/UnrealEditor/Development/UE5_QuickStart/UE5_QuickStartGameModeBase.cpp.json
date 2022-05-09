@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\ue5_quickstartgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\ue5_quickstarteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_quickstart\\definitions.ue5_quickstart.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\ue5_quickstartgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_quickstart\\ue5_quickstartgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

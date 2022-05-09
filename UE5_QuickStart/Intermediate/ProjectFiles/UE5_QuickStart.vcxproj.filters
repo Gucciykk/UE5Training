@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE5_QuickStart.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5_QuickStart.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE5_QuickStartEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE5_QuickStart">
+      <UniqueIdentifier>{85306873-C159-3815-B551-C030C84A3967}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5_QuickStart\FirstActor.cpp">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_QuickStart\FirstActor.h">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_QuickStart\FloatingActor.cpp">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_QuickStart\FloatingActor.h">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_QuickStart\SecondFloatingActor.cpp">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_QuickStart\SecondFloatingActor.h">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UE5_QuickStart\UE5_QuickStart.Build.cs">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE5_QuickStart\UE5_QuickStart.cpp">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_QuickStart\UE5_QuickStart.h">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5_QuickStart\UE5_QuickStartGameModeBase.cpp">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5_QuickStart\UE5_QuickStartGameModeBase.h">
+      <Filter>Source\UE5_QuickStart</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

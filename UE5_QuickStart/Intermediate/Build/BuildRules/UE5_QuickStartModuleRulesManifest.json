@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\luigi.sim\\Documents\\Unreal Projects\\UE5_QuickStart\\Source\\UE5_QuickStart\\UE5_QuickStart.Build.cs",
+		"C:\\Users\\luigi.sim\\Documents\\Unreal Projects\\UE5_QuickStart\\Source\\UE5_QuickStart.Target.cs",
+		"C:\\Users\\luigi.sim\\Documents\\Unreal Projects\\UE5_QuickStart\\Source\\UE5_QuickStartEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

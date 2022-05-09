@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_QuickStart.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UE5_QuickStartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\FirstActor.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\FloatingActor.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\UE5_QuickStart.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\UE5_QuickStartGameModeBase.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\FirstActor.gen.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\FloatingActor.gen.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\UE5_QuickStart.init.gen.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\UE5_QuickStartGameModeBase.gen.cpp.obj"
+"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\Default.rc2.res"
+/OUT:"C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UnrealEditor\Development\UE5_QuickStart\UnrealEditor-UE5_QuickStart.lib"

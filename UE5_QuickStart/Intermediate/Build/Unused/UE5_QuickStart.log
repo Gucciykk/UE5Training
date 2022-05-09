@@ -1,0 +1,8 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\luigi.sim\AppData\Local\UnrealBuildTool\Log.txt
+  Creating makefile for UE5_QuickStartEditor (no existing makefile)
+  Parsing headers for UE5_QuickStartEditor
+    Running UnrealHeaderTool "C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\UE5_QuickStart.uproject" "C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\Intermediate\Build\Win64\UE5_QuickStartEditor\Development\UE5_QuickStartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\luigi.sim\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for UE5_QuickStartEditor in 4.6374163 seconds
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.0\Engine\Build\BatchFiles\Build.bat" UE5_QuickStartEditor Win64 Development -Project="C:\Users\luigi.sim\Documents\Unreal Projects\UE5_QuickStart\UE5_QuickStart.uproject" -WaitMutex -FromMsBuild" exited with code 6.

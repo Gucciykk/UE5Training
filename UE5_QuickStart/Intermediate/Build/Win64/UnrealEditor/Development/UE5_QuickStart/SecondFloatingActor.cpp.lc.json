@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\secondfloatingactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\ue5_quickstarteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_quickstart\\definitions.ue5_quickstart.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\secondfloatingactor.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\source\\ue5_quickstart\\floatingactor.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_quickstart\\floatingactor.generated.h",
+            "c:\\users\\luigi.sim\\documents\\unreal projects\\ue5_quickstart\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_quickstart\\secondfloatingactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
